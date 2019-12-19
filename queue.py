@@ -8,6 +8,11 @@
    # When data is tranferred asynchronously between two processes, like IO buffers
    # Operational research apps or stochastic models
 
+#Stack application:
+  # back button in web browsers
+  # undo operation in softwares( Photoshop or Paint)
+  # Stack memory stores local variables and function calls
+
 #FIFO
 
 class Queue:
